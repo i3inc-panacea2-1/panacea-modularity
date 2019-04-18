@@ -1,3 +1,3 @@
 # Panacea.Modularity
 
-Defines a simple interface fpr basic modularity
+Defines a simple interface for basic modularity.
